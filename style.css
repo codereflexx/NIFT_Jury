@@ -1,6 +1,11 @@
-@use postcss-preset-env {
-  stage: 0;
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Basic:ital,wght@0,400;0,700;1,400&family=Noto+Sans:wght@400;700&family=Playfair+Display+SC:wght@900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
+
 
 /* config.css */
 
